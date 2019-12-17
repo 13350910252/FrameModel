@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".builder.one.activity.TestBuilderActivity" />
+        <activity android:name=".builder.two.activity.TestBuilderTwoActivity" />
     </application>
 
 </manifest>
